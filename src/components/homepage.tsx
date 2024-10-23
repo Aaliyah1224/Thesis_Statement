@@ -1,9 +1,10 @@
-import"./homepage.css";
+import './homepage.css';
 
 function Homepage() {
   return (
     <div>
-      <h1 className="logo">NutriFit</h1>
+      <h1>NutriFit</h1>
+      <button>Login</button>
     </div>
   );
 }
